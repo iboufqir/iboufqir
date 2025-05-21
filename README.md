@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <p align = "center" width = "700" > <img width = "800" src = "https://badge.mediaplus.ma/black/iboufqir"/></p>
 
-<h3 align="center">Full Stack Web Developer </h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iboufqir&label=Profile%20views&color=0e75b6&style=flat" alt="iboufqir" /> </p>
 
@@ -18,9 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/essadike1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="essadike1" height="30" width="40" /></a>
-<a href="https://fb.com/saddik.elhafiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="essadike elhafiane" height="30" width="40" /></a>
-<a href="https://instagram.com/essadike_elhafiane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="essadike_elhafiane" height="30" width="40" /></a>
+<a href="https://fb.com/imane_boufqir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Imane boufqir" height="30" width="40" /></a>
+<a href="https://instagram.com/x.owly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imane boufqir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
